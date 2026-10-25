@@ -1,0 +1,14 @@
+.venv/
+.conda/
+__pycache__/
+.pytest_cache/
+lecture_data/
+logs/
+archive/
+audio lec/
+audios/
+Videos/
+jsons/
+*.joblib
+.ipynb_checkpoints/
+.virtual_documents/
